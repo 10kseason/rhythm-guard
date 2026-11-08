@@ -1,0 +1,16 @@
+/build/
+/dist/
+/work/
+/outputs/
+__pycache__/
+*.py[cod]
+*.o
+*.exe
+*.zip
+*.log
+*.pdb
+*.dmp
+.env
+.env.*
+*.key
+*.pem
